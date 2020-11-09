@@ -128,4 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.csv
+E13.csv
+FSF.csv
+TWT.csv
+INT.csv
+TFP.csv
