@@ -134,4 +134,5 @@ TWT.csv
 INT.csv
 TFP.csv
 
-*.csv
+followers.csv
+friends.csv
